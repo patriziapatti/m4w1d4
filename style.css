@@ -239,11 +239,16 @@ ul {
   height: 150px;
   width: 150px;
 }
+.corpoCard p{
+  margin-bottom: 5px;
+}
 
 .corpoCard h5{
   margin-top: 10px;
+  margin-bottom: 5px;
 }
 
 #nomeArt{
   color: white;
+  padding-left: 0px;
 }
