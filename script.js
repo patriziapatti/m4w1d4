@@ -31,10 +31,6 @@
             card.appendChild(titoloAlbum)
             card.appendChild(durata)
             sezione.appendChild(card)
-
-            
-
-
         });
     })
 

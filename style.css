@@ -240,6 +240,10 @@ ul {
   width: 150px;
 }
 
+.corpoCard h5{
+  margin-top: 10px;
+}
+
 #nomeArt{
   color: white;
 }
